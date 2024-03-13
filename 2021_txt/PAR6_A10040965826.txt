@@ -1,0 +1,32 @@
+﻿IRM PELVIENNE
+
+Indication :
+Découverte fortuite d'une formation solide entre le plancher vésical et l'utérus au décours d'une échographie pelvienne. 
+L'examen est réalisé afin de caractériser cette lésion.  
+
+Technique :
+Séquences axiale, coronale et sagittale T2. Séquence axiale T1 Dixon. Séquence axiale BTFE.
+Séquence axiale diffusion et séquence axiale T1 après injection de Gadolinium.
+
+Résultats :
+On retrouve la formation nodulaire décrite sur l'échographie. Elle se situe entre le col utérin en arrière et la paroi postérieure vésicale. 
+La formation est ovalaire homogène bien limitée. Elle refoule en avant la muqueuse postérieure vésicale sans envahissement visible. En arrière, elle refoule le col vésical également sans amaigrissement. Elle apparaît en isosignal T1 sans graisse intra-lésionnelle, hyposignal T2 homogène. 
+Elle présente un hypersignal diffusion AB élevé. 
+Après injection de Gadolinium, elle présente un rehaussement homogène.
+Cette lésion mesure 25 mm de hauteur, 22 mm de diamètre transverse et 14 mm en antéro-postérieur.
+Elle présente toutes les caractéristiques de lésion bénigne et peut évoquer en premier lieu un léiomyome para-vésical postérieur. 
+L'utérus apparaît antéversé médian, de taille normale, globuleux.
+L'endomètre est régulier mesuré à 2,7 mm.
+Il existe une hypertrophie de la zone jonctionnelle s'étendant au myomètre notamment au niveau du mur postérieur faisant suspecter une adénomyose focale.
+Absence de myome utérin objectivé.
+Absence de signe d'endométriose profonde. 
+Les ovaires sont de taille et de morphologie normales.
+L'ovaire droit est rétro-utérin avec présence d'un follicule mature de 25 mm.
+Absence d'anomalie ovarienne gauche. 
+Absence d'adénopathie pelvienne.
+Absence d'anomalie des structures digestives.
+Absence d'anomalie des structures osseuses.
+
+Conclusion 
+Lésion située entre le col utérin et la paroi postérieure vésicale mesurée à 25 mm de grand axe présentant des caractéristiques IRM de bénignité et pouvant évoquer un léiomyome para-vésical postérieur.
+Utérus globuleux peu compatible avec une adénomyose.

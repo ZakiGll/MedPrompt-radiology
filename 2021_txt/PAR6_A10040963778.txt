@@ -1,0 +1,38 @@
+﻿IRM CEREBRALE
+
+
+
+Indication :
+Céphalées persistantes depuis 6 mois, et baisse de la vision.
+
+Technique :
+Séquences sagittales T1, séquence 3D Flair, séquence axiale diffusion, séquence axiale T2, séquence 3D TOF sur le polygone, et séquence CORO T2 sur les orbites.
+
+Résultats :
+
+À l'étage sous-tentoriel :
+Absence d'anomalie de la charnière cervico-occipitale.
+Morphologie normale du tronc cérébral et des citernes de la base, des hémisphères et du vermis cérébelleux, et du V4.
+
+A l'étage sus-tentoriel :
+Morphologie normale du corps calleux et des ventricules latéraux.
+Bonne différenciation concernant la substance grise.
+Absence d'anomalie des noyaux gris centraux.
+
+Sur les séquences de diffusion, absence d'hyper-signal évoquant une lésion ischémique constituée.
+
+Sur les séquences 3D Flair, absence d'hyper-signal inflammatoire de la substance blanche.
+Présence d'hypersignaux punctiformes de la substance blanche profonde frontale, aspécifiques.
+
+Sur les séquences T2*, absence d'hypo-signal évoquant une lésion hémorragique.
+
+Sur les séquences CORO T2 sur les orbites, absence d'anomalie du contenu orbitaire.
+Intégrité des globes oculaires, des muscles oculomoteurs.
+Pas d'anomalie du nerf optique et du chiasma optique.
+Arachnoïdocèle des citernes opto-chiasmatiques.
+Absence d'anomalie de la glande hypophysaire.
+
+Sur les séquences TOF sur le polygone, absence d'amputation du territoire vasculaire et d'image anévrismale communicante postérieure droite.
+
+Conclusion :
+IRM de l'encéphale, du polygone de Willis et des orbites sans anomalie identifiable.

@@ -1,0 +1,44 @@
+﻿IRM DE L'EPAULE DROITE
+
+Indication : 
+Mettre l'indication qui est marquée sur la demande.
+ 
+Technique :
+Séquences DP SPAIR trois plans, sagittale et coronale T1, coronale STIR et trois plans post- Gadolinium IV. IRM 3 T ingénia.
+ 
+Description :
+Articulation acromio-claviculaire :
+Épanchement intra-articulaire et plages d'hypersignal DP de l'os sous chondral.
+Il s'associe un épaississement et un rehaussement post-Gadolinium de la synoviale.
+Bonne congruence  articulaire.
+
+Articulation gléno-humérale :
+Pas de lésion intra-osseuse de type post-traumatique ou séquellaire.
+Aspect irrégulier et suspicion de lésion du labrum supérieur de type SLAP lésion 2.
+Remodelage ostéophytique des berges articulaires.
+Discrète ascension de la tête humérale mais persistance de la congruence articulaire.
+
+Tendon sous-scapulaire :
+Hypersignal DP et net rehaussement post-Gadolinium du tiers supérieur de ces fibres sans lésion transfixiante démontrée.
+
+Tendon du long biceps :
+Discret épaississement sans signe de lésion transfixiante mais avec un rehaussement linéaire de sa portion  horizontale.
+Le tendon se trouve normalement dans le sillon intertuberculaire.
+
+Tendon du muscle supra-épineux :
+Aspect épaissi et hypersignal à hauteur des fibres postérieures, de la jonction avec le tendon infra-épineux, de type lésion fissuraire, associé à un rehaussement diffus post-Gadolinium de celui-ci et à des importants remaniements scléro-géodiques du tubercule majeur au siège d'insertion tendineuse.
+
+Tendons infra-épineux et teres minor:
+Discret hypersignal associé à un important rehaussement post-Gadolinium au siège d'insertion du tendon infra-épineux de son versant inférieur.
+
+Bourse sous-acromio-deltoïdienne :
+Volumineux épanchement intra-boursier, aspect épaissi de la synoviale et net rehaussement synovial post-Gadolinium.
+
+Trophicité musculaire :
+Pas d'atrophie musculaire démontrée.
+
+Conclusion : 
+Tendinose du tendon sous-scapulaire du long biceps, supra et infra-épineux.
+Lésion fissuraire, en première hypothèse transfixiante du tendon supra-épineux.
+Important épanchement de la bourse sous-acromio-deltoïdienne et aspect de bursite.
+Remaniements dégénératifs acromio-claviculaires d'allure inflammatoire.

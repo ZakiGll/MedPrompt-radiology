@@ -1,0 +1,13 @@
+﻿Indication : Bilan dans un contexte d'AIT.
+
+Technique : On réalise une séquence axiale T2 FLAIR, axiale T2*, séquence 3D TOF, séquence diffusion, séquence 3D T1 sans injection.
+
+Résultats :
+
+L'examen met en évidence des signes d'atrophie cortico-sous corticale avec des zones en hypersignal Flair en péri-ventriculaire.
+Les structures de la ligne médiane sont en place.
+On ne met pas en évidence de SPOT hémorragique, on ne met pas en évidence d'anomalie du signal en diffusion. 
+L'exploration 3D TOF ne met pas en évidence d'anomalie au niveau des artères du polygone de Willis.
+
+Conclusion : Pas de signe d'AVC récent ischémique ni hémorragique.
+Atrophie cortico-sous corticale avec leuco-araïose.

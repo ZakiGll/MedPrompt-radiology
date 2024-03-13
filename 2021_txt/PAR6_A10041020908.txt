@@ -1,0 +1,22 @@
+﻿IRM DE LA PROSTATE
+
+Indication :
+Bilan de dépistage.
+Augmentation progressive du PSA actuellement à 4,97 ng/ml.
+
+Technique :
+Séquence 3D T1, séquences T1 en axiale, diffusion en axiale, séquence T2 pelvienne et séquence de perfusion avec injection de gadolinium en dynamique.
+
+Résultats :
+Volumineuse prostate mesurée à 62 x 56 x 63 mm dans les trois axes soit un poids estimé à 109 g.
+Il existe une hypertrophie surtout à droite avec aspect de nodule en hypersignal T2.
+Présence d'une zone nodulaire de 14 mm de la région VIIa, en hyposignal T2 mais sans correspondance sur les autres séquences et sans prise de contraste après injection.
+Pas d'interruption de la capsule périphérique.
+Pas d'anomalie des vésicules séminales.
+Pas d'épanchement pelvien.
+Pas de ganglion suspect pelvien.
+
+Conclusion :
+Importante hypertrophie prostatique avec nombreux nodules bien délimités plutôt compatible avec une hypertrophie bénigne.
+Formation nodulaire de la zone VII-A, en hyposignal T2 mais sans correspondance sur les autres séquences, classée PIRADS 3 à surveiller.
+

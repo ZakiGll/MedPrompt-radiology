@@ -1,0 +1,12 @@
+﻿OSTEODENSITOMETRIE
+
+
+Indication :
+Bilan de fracture.
+
+Résultats : 
+La densité minérale osseuse de L1 à L4 est mesurée à 1,031 g/cm² ce qui correspond à un T-score de 0,02.
+La densité minérale osseuse axiale est donc satisfaisante.
+Pas d'ostéopénie ou d'ostéoporose.
+La densité minérale osseuse du col fémoral gauche est mesurée à 0,580 g/cm² ce qui correspond à un T-score de -2,4.
+Il existe donc une ostéopénie du squelette périphérique à la limite de l'ostéoporose à haut risque fracturaire.

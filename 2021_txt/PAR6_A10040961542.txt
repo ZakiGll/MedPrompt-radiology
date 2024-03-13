@@ -1,0 +1,24 @@
+﻿IRM CEREBRALE
+
+Indication :
+Bilan de céphalées dans un contexte de dérivation ventriculo-péritonéale en 2017.
+
+Technique :
+Séquence 3D FLAIR, séquences axiale et diffusion, séquence axiale T2*, séquence sagittale en contraste de phase et sagittale T2 DRIVE.
+
+Résultats :
+A l'étage sous-tentoriel, morphologie normale de la charnière cervico-occipitale, du tronc cérébral, des hémisphères, du vermis cérébelleux, des citernes de la base et du V4.
+
+A l'étage sus-tentoriel, morphologie normale du corps calleux, du troisième ventricule, des ventricules latéraux. Pas de ??? 00 : 58 aspect normal des noyaux gris centraux.
+ La sonde de dérivation ventriculo-péritonéale est en place, son extrémité distale est visible en regard du ventricule latéral gauche.
+Il n'est pas mis est en évidence d'obstacle à l'éjection ventriculaire. Absence de dilatation ventriculaire.
+Sur les séquences en contraste de phase et T2 DRIVE, l'écoulement du LCR s'effectue normalement.
+Sur les séquences de diffusion, absence d'hypersignal évoquant une lésion ischémique.
+Sur la séquence T2 FLAIR, absence d'hypersignal inflammatoire de la substance blanche.
+Sur les séquences T2*, absence de signal hémorragique.
+   
+Conclusion :
+Sonde de dérivation ventriculaire en place. 
+Absence de dilatation ventriculaire et d'obstacle à l'écoulement du LCR.
+IRM cérébrale sans anomalie identifiable. 
+

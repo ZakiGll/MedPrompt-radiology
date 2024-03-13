@@ -1,0 +1,25 @@
+﻿IRM PROSTATIQUE 
+
+Indication :
+Hypertrophie prostatique avec échostructure hétérogène de la zone transitionnelle. 
+Bilan.
+
+Technique :
+Séquences axiale, coronale et sagittale T2, séquence axiale, axiale BTFE, séquence axiale diffusion et séquence axiale T1 après injection de Gadolinium.
+
+Résultats :
+La prostate est hypertrophique avec adénome de la zone traditionnelle. Elle mesure 53 mm de diamètre transverse, 46 mm en antéro-postérieur et 49 mm de hauteur avec un volume estimé à 59 g.
+La zone traditionnelle est hétérogène, athéromateuse sans lésion focale objectivée.
+La zone périphérique est le siège d'une lésion postéro-moyenne et latérale gauche (zone 10P). Cette lésion mesure 16 mm, elle apparaît triangulaire aux contours réguliers, bombant la capsule prostatique en regard. Elle apparaît en hyposignal T2, sans hypersignal diffusion ni restriction de l'ADC avec courbe de type 1 après injection de Gadolinium. Elles sont classées PIRADS 2.
+Deuxième lésion nodulaire postéro-apicale et latérale gauche de 10,3 mm en hyposignal T2. Absence d'hypersignal diffusion ni de restriction de restriction de l'ADC. Absence de rehaussement hypervasculaire avec courbe de type 1 après injection de Gadolinium, lésion classée PIRADS 3.
+Absence d'anomalie des vésicules séminales.
+Respect de la capsule prostatique.
+Absence d'anomalie des bandelettes capsulo-nerveuses.
+Respect du sphincter prostatique distal.
+Absence d'adénopathie pelvienne.
+Absence d'anomalie des structures osseuses.
+ 
+Conclusion :
+Hypertrophie prostatique avec adénome de la zone transitionnelle, adénome prostatique mesuré à 59 g.
+Absence de lésion focale suspecte objectivée.
+

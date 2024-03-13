@@ -1,0 +1,24 @@
+﻿IRM PROSTATIQUE
+
+Indication :
+Contrôle d'un nodule de la prostate médiane visible à l'échographie. Dosage des PSA normal.
+
+Technique :
+Séquences axiale, coronale et sagittale T2, séquence axiale BTFE, séquence axiale diffusion, séquence 3D T1 après injection de Gadolinium dynamique.  
+
+Résultats :
+La prostate  est de taille limite de la normale, elle mesure 44 mm en diamètre transverse, 31 mm en antéro-postérieur et 32 mm de hauteur, volume estimé à 29 g.
+La zone transitionnelle est adénomateuse sans lésion focale suspecte.
+La zone périphérique est le siège au niveau antéro-apical gauche à cheval sur la zone transitionnelle, un nodule bien limité de 11 x 7 x 7 mm en hyposignal  T2, hypersignal diffusion avec restriction  modérée de l'ADC ( indice calculé à 0,97 mm), rehaussement précoce hypervasculaire sans lavage tardif avec courbe de type 2. Nodule classé PIRADS 3.
+Pas d'autre lésion focale objectivée de la zone périphérique.
+Par ailleurs, respect de la capsule prostatique.
+Intégrité des vésicules séminales, des bandelettes vasculo-nerveuses.
+Intégrité du sphincter prostatique distal.
+Absence d'anomalie pelvienne.
+Absence d'anomalie vésicale.
+Absence d'anomalie des structures osseuses.
+ 
+Conclusion :
+Prostate de taille limite de la normale avec un volume estimé à 29 g avec adénome de la	 zone transitionnelle débutant.
+Nodule prostatique de 11 mm antéro-apical gauche classé PIRADS 3. 
+

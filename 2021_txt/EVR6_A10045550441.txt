@@ -1,0 +1,32 @@
+﻿IRM CEREBRALE
+
+
+Indication :
+
+Bilan de troubles mnésiques.
+
+Technique :
+
+Coupes 3D T1 IR, axiale Flair, axiale T2, axiale T2*, axiale diffusion, 3D TOF.
+
+Résultats :
+
+Etage sous-tentoriel :
+Il n'y a pas d'anomalie du signal des hémisphères cérébelleux et du tronc cérébral.
+Aspect normal des angles ponto-cérébelleux et du quatrième ventricule.
+Il n'y a pas de zone de restriction en diffusion.
+
+Etage sus-tentoriel :
+Il n'y a pas d'anomalie de signal des hémisphères cérébraux et des noyaux gris centraux.
+Sur les coupes coronales, il n'y a pas d'atrophie hippocampique.
+Sur la série T2*, il n'y a pas de séquelle de saignement.
+Sur la série en diffusion, il n'y a pas de séquelle ischémique.
+L'étude 3D TOF ne décèle pas d'anomalie.
+  
+Conclusion :
+
+IRM cérébrale normale.
+Absence d'atrophie hippocampique.
+Absence de séquelle ischémique ou hémorragique.
+
+

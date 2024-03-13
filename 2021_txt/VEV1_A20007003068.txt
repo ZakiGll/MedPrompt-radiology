@@ -1,0 +1,46 @@
+﻿CT SCAN ABDOMINAL
+
+Indication :
+ Bilan de douleurs dans la fosse iliaque droite avec défense. Syndrome inflammatoire biologique.
+
+Technique :
+Acquisitions tomodensitometriques hélicoïdales avant et après Ioméron 350 IV, après injection et de réplétion colique de produit de contraste hydrosoluble dilué, avec un logiciel d'optimisation de dose.
+DLP : 1731,5 mGy.cm.
+
+Description :
+Sur les dernières coupes thoraciques, discret épaississement bronchique et bronchectasie cylindrique bi basale. Pas d'épanchement pleural. 
+En infradiaphragmatique, le foie est de volume normal, de contours bien délimités, sans lésion focale, et sans dilatation des voies biliaires.
+La vésicule biliaire est en réplétion partielle et présente 2 formations calciques intravésiculaires.
+Pas de dilatation du cholédoque.
+Les densités hépatiques sont de type stéatosique.
+Rate de volume normal, de contours réguliers et de rehaussement homogène.
+Le pancréas est de volume normal, de contours bien délimités sans ectasie du canal de Wirsung et sans évidence d'anomalie de densité.
+Les reins sont orthotopiques de dimensions normales, avec un rehaussement homogène et symétrique à l'exception de quelques kystes corticaux infracentimétriques à gauche.
+Pas de dilatation des voies urinaires.
+Aspect dodu de la surrénale gauche.
+Nodule du bras interne de la surrénale droite de 12 mm présentant un rehaussement post-contraste, ne pouvant pas être défini de manière plus approfondie par cette technique d'examen.
+Répartition normale des anses digestives dans la cavité abdominale.
+Épaississement pariétal en trognon de pomme à hauteur de l'angle colique droit et de la partie proximale du côlon transverse, de type rehaussant, en première hypothèse de nature tumorale. Présence de nombreux diverticules coliques avoisinants cette lésion associés à une importante infiltration de la graisse péri colique.
+Pas de signe de perforation.
+Pas de signe d'occlusion.
+Cette lésion est sténosante mais non occlusive. Multiples diverticules coliques disséminés.
+Appendice aéré, de calibre normal avec un diamètre de 5 mm.
+Pas d'épanchement intrapéritonéal.
+En intra pelvien, vessie en réplétion à parois régulières. 
+Lithiase intra vésicale de 4 mm avoisinant le méat gauche.
+Pas d'urétéro-hydronéphrose gauche.
+Prostate augmentée de volume, de contours réguliers.
+Pas d'adénopathie intra-pelvienne.
+A noter une petite hernie ombilicale à contenu graisseux de 14 mm, sans signe de complication.
+
+Sur le plan osseux :
+Spondylolyse arthrose étagée prédominant de L3 à S1.
+Plusieurs plages de condensation infracentimétriques des os iliaques bilatéralement, en première hypothèse de type énostoses.
+ 
+Conclusion :
+Lésion sténosante, non occlusive, en première hypothèse de type tumoral de l'angle colique droit associée à un aspect de diverticulite de voisinage sans signe de collection ou perforation.
+Lithiase intra-vésiculaire à calculs multiples sans signe de complication.
+Lithiase intra vésicale avoisinant le méat gauche, sans urétéro-hydronéphrose.
+Hypertrophie prostatique globale.
+Nodule surrénalien droit, rehaussant, suspect, ne pouvant pas être défini par cette technique d'examen.
+Hernie hiatale par glissement.

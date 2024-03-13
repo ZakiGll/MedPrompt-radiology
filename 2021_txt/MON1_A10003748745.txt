@@ -1,0 +1,14 @@
+﻿indication :
+Recherche de lésion du tronc cérébral.
+Technique :
+Protocole axiale T1, axiale diffusion, axiale FLAIR, axiale T2* et 3D T1 gado. 
+Résultat :
+Pas de lésion du type ischémique nettement individualisée.
+Présence d'images de déminéralisation visibles sur la séquence flair centrée sur le tronc cérébral. Ces lésions se présentent en hyposignal T1, et ne prennent pas de contraste après injection de gadolinium.
+Pas de syndrome de masse nettement individualisable.
+Présence aussi de leucoaraïose par ailleurs.
+Atrophie cortico-sous-cortical.
+Pas de prise de contraste pathologique.
+ 
+ 
+

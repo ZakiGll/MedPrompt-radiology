@@ -1,0 +1,31 @@
+﻿INDICATION :
+Bilan de névralgie cervico-brachiale bilatérale prédominant à droite.
+
+TECHNIQUE :
+Réalisation de séquences sagittale T1, sagittale T2 DIXON, axiale T2 DRIVE.
+
+RÉSULTATS :
+A l'étage C2-C3 :
+Aspect normal du signal du disque, sans hernie remarquable. Morphologie normale du canal cervical et des foramens. Pas d'anomalie du signal osseux ou anomalie des espaces para-rachidiens.
+
+A l'étage C3-C4 :
+Aspect normal du signal du disque, sans hernie discale remarquable. Morphologie normale du canal cervical et des foramens. Pas d'anomalie du signal osseux ou anomalie des espaces para-rachidiens.
+
+A l'étage C4-C5 :
+Discopathie avec mise en évidence d'une hernie discale médiane et para-médiane droite, avec remaniements disco-ostéophytiques générant une sténose foraminale bilatérale prédominant à droite. Rétrécissement modéré du canal cervical à cet étage. Pas d'anomalie du signal osseux ou anomalie des espaces para-rachidiens.
+
+A l'étage C5-C6 :
+Discopathie avec hernie discale médiane et para-médiane gauche. Morphologie normale du canal rachidien. Sténose foraminale gauche. Morphologie normale du foramen droit. Pas d'anomalie du signal osseux ou anomalie des espaces para-rachidiens.
+
+A l'étage C6-C7 :
+Aspect normal du disque, sans hernie remarquable. Morphologie normale du canal cervical et des foramens. Pas d'anomalie du signal osseux ou anomalie des espaces para-rachidiens.
+
+A l'étage C7-D1 :
+Aspect normal du disque, sans hernie discale remarquable. Morphologie normale du canal rachidien et des foramens. Pas d'anomalie du signal osseux ou anomalie des espaces para-rachidiens.
+
+Pas d'anomalie de la jonction crânio-cervicale.
+Pas d'anomalie du signal de la moelle.
+
+CONCLUSION :
+Discopathie C4-C5, avec hernie discale médiane et para-médiane droite et remaniements disco-ostéophytiques, générant une sténose foraminale bilatérale prédominant à droite.
+Hernie discale C5-C6 médiane et para-médiane gauche associée.

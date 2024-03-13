@@ -1,0 +1,30 @@
+﻿ECHO-DOPPLER CAROTIDIEN ET ÉCHOGRAPHIE THYROÏDIENNE 
+
+Indication :
+Bilan d'hypercholestérolémie. Athérosclérose ? Hypothyroïdie inaugurale.
+Mesure tridimensionnelle de chaque lobe et nodule, diamètre si positif.
+
+Description :   
+
+Doppler :   
+Vaisseaux du cou perméables et de calibre normal.
+Pas d'épaississement intimal ni de calcification type athérosclérose.
+Les vitesses systoliques maximales mesurées dans chaque axe artériel carotidien commun, interne et externe, paraissant symétriques et oscillent autour de 60-80 cm/s.
+Pas d'image d'anévrisme.
+Artère vertébrale perméable des deux côtés.
+Veines jugulaires internes perméables et compressibles des deux côtés.
+
+Echographie thyroïdienne :   
+Altération de l'échostructure de la glande thyroïde, parsemée de multiples plages nodulaires hypoéchogènes millimétriques avec des contours modérément bosselés et hypervascularisation au Doppler couleur.
+Le lobe droit mesure 20 x 18 x 5 cm, le gauche 18 x 16 x 42 mm. Isthme non épaissi, mesuré à 3-4mm.
+Pas d'image de nodule suspect visible.
+Pas d'adénopathie cervicale.
+Glandes parotidiennes et sous maxillaires en ordre.
+
+Conclusion :
+Aspect remanié du parenchyme thyroïdien avec une vascularisation augmentée au Doppler couleur.
+Signe pouvant traduire une maladie inflammatoire de la glande thyroïde et des thyroïdites d'Hashimoto : à corréler à la clinique.
+Absence d'argument écho-Doppler pouvant suspecter une sténose hémodynamiquement significative des axes artériels carotides et vertébraux.
+Pas d'évidence de lésion athéromateuse.
+
+

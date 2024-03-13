@@ -1,0 +1,29 @@
+﻿IRM RENALE
+
+
+Indication :
+Découverte d'une lésion rénale droite au scanner. 
+
+Technique :
+T2 coronal, axial, T2 FAT-SAT axial et coronal, T1 écho de gradient en phase et en opposition de phase axiale, T2 diffusion axial, T1 3F dynamique axial après injection de Gadolinium et T1 tardif axial après Gado.
+
+Résultats : 
+On retrouve effectivement au niveau du parenchyme de la partie moyenne du rein droit un syndrome de masse tissulaire d'environ 57 mm de diamètre.
+Cette masse présente un signal hypointense en T1 et intermédiaire en T2, hyperintense sur la séquence diffusion avec perte de signal sur la carte ADC, présentant des contours réguliers avec une extension intrinsèque au niveau du sinus rénal. 
+Après injection de Gadolinium, on constate une prise de contraste de cette masse propulsive et presque quasi-totale avec persistance de deux micro-images millimétriques hypointenses probablement en rapport avec des microcalcifications, à vérifier au scanner. 
+On note un refoulement des voies excrétrices sans signe évident d'envahissement.
+Les cavités rénales ne sont pas dilatées. 
+Les artères et les veines rénales bilatérales sont perméables.
+Absence de syndrome de masse tissulaire visible au niveau du rein gauche. 
+Absence de ganglion significatif visible en regard du hile rénal. 
+Les glandes surrénales sont homogènes et d'épaisseur normale.
+Néphropathie rénale gauche homogène hormis deux microkystes corticaux simples.
+Les cavités rénales gauches ne sont pas dilatées.
+Le foie est augmenté de taille, présentant une chute de signal sur la séquence écho de gradient en opposition de phase correspondant à une stéatose diffuse. 
+Pas d'anomalie de prise de contraste nodulaire suspecte visible au niveau du parenchyme hépatique.
+Le pancréas et la rate sont homogènes et d'épaisseur normale.
+Absence d'adénomégalie significative visible au niveau des chaînes coelio-mésentériques ou lombo-aortiques.
+
+Conclusion :
+Syndrome de masse tissulaire parenchymateux intéressant la partie moyenne du rein droit avec une extension intrinsèque dans le sinus rénal sans extension aux cavités excrétrices visibles. Perméabilité des artères et des veines rénales.
+Absence de métastase hépatique.

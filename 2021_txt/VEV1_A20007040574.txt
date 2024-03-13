@@ -1,0 +1,25 @@
+﻿CR SCAN ABDOMINAL
+
+Indication :
+Douleurs abdominales en crampes en fosse iliaque droite. Appendice calme à l'échographie. 
+Status après ligature des trompes de Fallope en 2010. Appendicite, lésion ovarienne, diverticule, adénopathie, autres ? 
+
+Technique
+Acquisition volumique native injectée sur l'ensemble de l'abdomen. 
+Contraste orale avec ??? (35 sec) positif.
+DLP : 776,07 mGy.cm.
+
+Description :
+Artéfacts respiratoires gênant l'analyse des structures abdominales supérieures. Il n'y a toutefois pas de stop intestinal pouvant suspecter un processus inflammatoire ou tumoral. Notons un aspect tubulaire et opacifié de l'appendice avec un diamètre de 6-7 cm à sa base (confirmation à l'échographie complémentaire avec sensibilité au passage de la sonde).
+On notera de multiples ganglions mésentériques au niveau de la racine du mésentère. Petite lame de liquide libre dans le petit bassin, non spécifique.
+Utérus globuleux, hétérogène avec une petite lame liquidienne intra-utérine.
+Vésicule biliaire contractée, à parois légèrement hyperhémiés, alithiasique. Parenchyme hépatique globalement homogène sans lésion focale suspecte visible.
+Pancréas, rate, reins en ordre. Aorte abdominale perméable, calibre normal.
+Bases pulmonaires libres en tenant compte de quelques bandes d'hypoventilation à la base gauche.
+Cadre osseux sans particularité.
+
+Conclusion : 
+Artéfacts respiratoires ++ ne permettant pas un examen fin des structures abdominales supérieures.
+Appendice d'épaisseur limite, sensible au passage de la sonde, appendicite débutante ? À corréler à la clinique et à surveiller.
+Fine lame de liquide libre dans le Douglas d'allure non spécifique.
+Ganglions mésentériques multiples et des adénites mésentériques.

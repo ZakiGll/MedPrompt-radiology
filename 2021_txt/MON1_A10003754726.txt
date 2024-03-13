@@ -1,0 +1,23 @@
+﻿
+ 
+Indication :
+Elévation des PSA.
+
+Technique :
+Séquences T2 dans les 3 plans de l'espace, séquences DIFFUSION, B0, B800, B 1600, avec cartographie ADC, séquence ganglion, axiale pondérée T2. Séquence non injectée dynamique. Axiale avec soustraction et séquence tardive coronale T1 sans injection.
+Résultat :
+L'examen a mis en évidence une prostate augmentée de volume dont le poids est estimé à 109 g environ.
+
+ZONE DE TRANSITION :
+Il existe une hypertrophie nodulaire importante de la zone de transition avec une hypertrophie du lobe médian sans plage en hyposignal atypique décelable en T2.
+
+ZONE PERIPHERIQUE :
+La zone périphérique paraît de taille normale, homogène, en hypersignal T2 sans lésion nodulaire, sans anomalie de signal en diffusion.
+Aspect normal de la vésicule séminale.
+Vessie de lutte.
+Il n'existe pas de formation ganglionnaire pelvienne de taille significative.
+
+Conclusion :
+Hypertrophie prostatique importante au dépend de la zone de transition avec une vessie de lutte.
+Il n'existe pas de lésion prostatique suspecte ni de lésion cible.
+Classification PIRADS 2.

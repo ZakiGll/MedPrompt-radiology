@@ -1,0 +1,23 @@
+﻿IRM CEREBRALE
+
+Indication :
+Céphalées à l'effort.
+
+Technique :
+Séquence sagittale T1, séquence axiale diffusion, séquence axiale T2*, séquence 3D FLAIR, séquence 3D TOF sur le polygone de Willis.
+
+Résultats :
+A l'étage sous-tentoriel :
+Morphologie normale de la charnière cervico-occipitale ; absence d'anomalie des hémisphères, du vermis cérébelleux, du tronc cérébral, des citernes de la base et du V4.
+
+A l'étage sus-tentoriel :
+Morphologie normale du corps calleux ; bonne différenciation substance blanche substance grise.
+Absence d'anomalie des noyaux gris centraux.
+Sur la séquence de diffusion, absence d'hypersignal évoquant une lésion ischémique.
+Sur la séquence T2*, absence d'hyposignal en faveur d'une lésion hémorragique.
+Sur la séquence 3D FLAIR, absence d'hypersignal inflammatoire de la substance blanche.
+Sur la séquence 3D TOF sur le polygone, absence d'amputation dans le territoire vasculaire et d'image anévrismale.
+Communicante postérieure gauche non visible.
+
+Conclusion :
+IRM cérébrale et du polygone de Willis sans anomalie identifiable. 

@@ -1,0 +1,31 @@
+﻿CT-SCAN THORACIQUE 
+
+Indication : 
+Toux grasse chronique en fonction de l'intensité du ? (0,10) environ 25 unités-paquets.
+Exclure un nodule pulmonaire suspect, emphysème.
+
+Technique :
+Acquisition volumique native injectée sur l'ensemble du thorax. Reconstructions.
+DLP totale : 295,48 mGy/cm.
+ 	
+Description :
+Emphysème modéré pulmonaire diffus sous forme d'une raréfction vasculaire en périphérie plus prononcée au niveau des lobes supérieurs. 
+Quelques signes sous-pleuraux parenchymateux bi-apicaux.
+Bandes d'hypoventilation du segment interne du lobe moyen et d'autres plus fines au niveau des deux bases pulmonaires.
+Pas de nodule pulmonaire suspect visible de type nodule tumoral ou autre.
+Pas d'infiltrat parenchymateux.
+Pas de bronchectasie.
+Notons la présence de quelques éléments endo-bronchiques au niveau des segments de la pyramide basale des deux côtés, pouvant correspondre à des sécrétions endo-bronchiques. 
+Pas d'épanchement pleural visible. 
+Pas d'adénopathie médiastinale ou hilaire. 
+Quelques plaques d'athérome calcifiées au niveau du bouton aortique et à l'origine de la sous-clavière gauche. 
+Pas de signe d'embolie pulmonaire.
+Hypertrophie multi-nodulaire de la glande thyroïde notamment au niveau du lobe droit, donnant un goitre plongeant dans le thorax et une empreinte légèrement sténosante de la trachée. 
+Abdomen supérieur sans particularité. 
+ 
+Conclusion :
+Modéré emphysème pulmonaire. 
+Quelques impactions bronchiques des deux lobes inférieurs, évoquant des sécrétions muqueuses. 
+Quelques troubles ventilatoires. 
+Aspect d'un goitre multi-nodulaire plongeant dans le thorax, responsable d'un défilement de la trachée. 
+Pas de nodule pulmonaire suspect de néoplasie.

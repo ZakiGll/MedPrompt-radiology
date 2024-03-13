@@ -1,0 +1,22 @@
+﻿IRM PROSTATIQUE
+
+Indication :
+Elévation de la PSA. Recherche de lésions cibles.
+
+Technique :
+Séquence T2 dans les trois plans, séquence axiale de diffusion. Séquence axiale T1 FAT-SAT avec injection de Gadolinium dynamique. Séquence axiale T2 ganglion.
+
+Résultats :
+Prostate augmentée de volume, de contours réguliers, mesurée à 54 x 48 x 45 mm, ce qui correspond à un volume d'environ 58 g.
+Absence de nodule en hyposignal T2 circonscrit visible ni d'image en hypersignal suspecte sur la séquence de diffusion.
+Seulement quelques fines travées en hypersignal T2 de la prostate périphérique de la base et de la prostate moyenne pouvant correspondre à des séquelles de prostatite.
+Les courbes de rehaussement sont de type 1 et 2.
+Pas d'anomalie des angles vésico-prostatiques.
+Respect des paquets vasculo-nerveux.
+Aspect normal des glandes séminales.
+Pas d'adénomégalie profonde, pas d'ascite.
+Aspect normal de la vessie.
+
+Conclusion :
+Hypertrophie prostatique modérée. Prostate classée PIRADS 2. 
+

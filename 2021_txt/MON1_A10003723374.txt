@@ -1,0 +1,16 @@
+﻿Indication : 
+Recherche de lésion méniscale.
+
+Technique :
+Séquences sagittales T1 complétées par des séquences DP SPIR dans les 3 plans.
+Résultat :
+Kyste osseux du tiers supérieur du fémur.
+Tendons sous-quadricipital et sous-rotulien d'épaisseur normale, de signal homogène Ménisques d'épaisseur normale, de signal homogène dans leurs différentes portions.
+Ligament croisé postérieur d'épaisseur normale, de signal homogène.
+Ligament croisé antérieur fin, de signal homogène.
+Ligaments latéraux d'épaisseur normale, de signal homogène.
+Cartilage rotulien d'épaisseur normale, de signal homogène.
+Discret pincement fémoro-patellaire externe en rapport avec un discret syndrome rotulien.
+ 
+Conclusion : 
+Discret syndrome rotulien. 

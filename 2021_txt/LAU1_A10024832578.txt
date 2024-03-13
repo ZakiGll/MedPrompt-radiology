@@ -1,0 +1,24 @@
+﻿MINERALOMETRIE
+
+Indication
+Bilan.
+
+Technique
+Balayage biphotonique dans un plan antéro-postérieur de la colonne lombaire et de la hanche gauche. Appareil Hologic Discovery.
+
+Description
+Colonne lombaire :
+La densité osseuse de L1 à L4 est de 0,508 g/cm².
+Le T-score est de -2,4, le Z-score de 0,0.
+Le TBS est de 0,983, dégradé.
+
+Hanche gauche :
+La densité osseuse totale est de 0,720 g/cm².
+Le T-score est de -1,8, le Z-score de 0,0.
+
+Col fémoral gauche :
+La densité osseuse est de 0,626 g/cm².
+Le T-score est de -2,0, le Z-score de +0,1.
+
+Conclusion
+Ostéopénie des deux sites mesurés, les valeurs étant proches de la moyenne pour l'âge, à la limite de l'ostéoporose pour la colonne lombaire. TBS dégradé pouvant indiquer un risque fracturaire lombaire augmenté.

@@ -1,0 +1,31 @@
+﻿IRM CEREBRALE
+
+
+Indication :
+
+Bilan de troubles de l'équilibre et de la mémoire. Notion de fuite il y a 4 mois.
+
+Technique :
+
+Coupes 3D T1 IR, axiales T2*, axiales T2, axiales Flair, axiales en diffusion.
+
+Résultats :
+
+Etage sous-tentoriel :
+Il n'y a pas d'anomalie de signal des hémisphères cérébelleux et du tronc cérébral. Il n'y a pas de comblement des angles ponto-cérébelleux. Aspect normal du 4e ventricule.
+
+Etage sus-tentoriel :
+L'examen des régions hippocampiques montre une atrophie modérée des régions hippocampiques sur l'échelle de Scheltens.
+Sur la série Flair, il existe quelques hypersignaux périventriculaires et de la substance blanche.
+Sur la série en diffusion, il n'y a pas de zone de restriction.
+Sur la série T2, il existe une petite plage en hypersignal, ovalaire, mesurant 6 mm, thalamique droite. Le contour un peu irrégulier est plus en faveur d'une lacune que d'une dilatation d'un espace de Virchow et Robin.
+Sur la série T2*, il existe un microbleed punctiforme au contact de la corne frontale droite. Calcifications débutantes des noyaux gris centraux.
+
+Conclusion :
+
+Atrophie hippocampique modérée score 2 sur l'échelle de Scheltens.
+Leucoaraïose score 2 de Fazekas.
+Présence d'un microbleed frontal droit et probablement d'une lacune thalamique droite.
+
+
+

@@ -1,0 +1,13 @@
+﻿Indication :
+Bilan d'AVC ischémique ??? (15 sec) de l'hémicorps gauche.
+Technique :
+Pondération 3D T1, cartographie ADC diffusion B0 B1000, T2 FLAIR, T2 spin-écho, T2*, diffusion B0 B1000.
+Résultat :
+Structures médianes en place.
+Cavité ventriculaire symétrique, aspect élargi des sillons corticaux et des vallées sylviennes en rapport avec une atrophie.
+Présence d'un hypersignal en diffusion occipital postérieur droit par rapport à la ligne médiane pouvant évoquer un AVC ischémique dans le territoire de la cérébrale postérieure mais avec un prolongement vers le territoire adjacent choroïdien et cérébral moyen donnant un aspect serpigineux voire en chapelet des anomalies de signaux, donc latéralisé en postérieur droit, pouvant être en faveur donc d'un AVC ischémique.
+Atrophie corticale.
+Pas de plage hémorragique notable.
+
+Conclusion :
+Bilan IRM en faveur d'un AVC ischémique jonctionnel postérieur latéralisé droit dans un territoire qui me paraît de type jonctionnel. Avis thérapeutique neurologique.

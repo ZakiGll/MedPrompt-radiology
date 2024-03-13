@@ -1,0 +1,23 @@
+﻿IRM DU CAVUM
+
+Indication :
+Bilan de masse au niveau du cavum.
+
+Technique :
+Séquences axiale, coronale et sagittale T1, séquence axiale T2 DIXON, séquence axiale diffusion et séquences axiale et coronale T1 après injection de Gadolinium.
+
+Résultats :
+On retrouve à la partie postérieure du cavum une structure bien limitée n'effaçant pas les fossettes de Rosenmüller, cette structure est ovalaire. Elle mesure 12,7 mm de diamètre transverse, 6 mm en antéro-postérieur, et 9,4 mm de hauteur. 
+Elle apparaît en hypersignal T1, en signal T2 hétérogène avec des zones en isosignal et zone kystique.
+Pas d'hypersignal de diffusion et de restriction de l'ADC.
+Absence de rehaussement homogène après injection de Gadolinium.
+Il n'existe pas d'extension postérieure, notamment au clivus et à la base du crâne.
+Par ailleurs, l'aération des cavités sinusiennes de la face est normale à l'exception d'un comblement liquidien et d'une cellule ethmoïdale postérieure.
+Absence d'anomalie des parois osseuses cellulaires orbitaires.
+Absence d'anomalie visible au niveau des structures musculaires des muscles masticateurs.
+Absence d'anomalie visible des structures encéphaliques à l'étage sus et sous-tentoriel.
+
+Conclusion :
+Lésion de 12 x 10 x 10 mm à la partie postérieure et médiane du cavum, évoquant en premier lieu un kyste de Tornwaldt remanié (hypersignal T1, et signal hétérogène T2).
+IRM du massif facial avec injection par ailleurs sans anomalie significative.
+IRM cervicale par ailleurs sans anomalie identifiable.

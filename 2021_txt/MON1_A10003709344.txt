@@ -1,0 +1,19 @@
+﻿Indication :
+Bilan de troubles de la mémorisation.
+Technique :
+Réalisation de séquences axiale T1, axiale FLAIR, axiale T2 écho de gradient. 3D TOF artériel, diffusion et coronale I/R MORPHO. 
+Résultat :
+En sous-tentoriel :
+Pas d'anomalie du signal de la fosse cérébrale postérieure.
+Le quatrième ventricule est en place, de volume normal.
+Pas d'anomalie des angles ponto-cérébelleux.
+
+En sus-tentoriel :
+Pas d'anomalie de signal hormis quelques hypersignaux de la substance blanche, toute débutante de grade 1 Fazekas.
+Pas de lésion hémorragique intra ou péri-cérébrale. Pas de collection péri-céphalique.
+L'étude de la partie interne des lobes temporaux retrouve une atrophie toute débutante de grade 1 Scheltens.
+Pas de collection péri-céphalique.
+
+Conclusion :
+Atrophie temporale interne débutante de grade 1 de Scheltens. Le reste de l'exploration cérébrale est sans particularité, quelques hypersignaux de la substance blanche péri-ventriculaire en rapport avec une leucoaraïose toute débutante (grade 1 Fazekas).
+

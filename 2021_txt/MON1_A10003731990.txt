@@ -1,0 +1,21 @@
+﻿Indication :
+Bilan d'extension d'une lésion pulmonaire.
+
+Technique :
+3D T1 en trois plans, T2 FLAIR, axiale diffusion, axiale ADC, T2* axiale et 3D T1 après injection de gadolinium en trois plans.
+ 
+Résultat : 
+ 
+Pas de syndrome de masse. Les structures de la ligne médiane ne sont pas déviées.
+On ne met pas en évidence d'anomalie focale visible au niveau du parenchyme cérébral et cérébelleux.
+Pas d'anomalie significative du système ventriculaire.
+Pas d'anomalie du corps calleux.
+Pas d'anomalie significative des espaces sous-arachnoïdiens.
+L'injection de produit de contraste n'a pas montré d'image nodulaire ou de prise de contraste circonscrite.
+A noter la présence toutefois d'une formation extra-axiale pariétale gauche en faveur d'un méningiome estimé à 19 x 6 mm dans le plan axial. A noter la présence d'atrophie cortico-sous-corticale en rapport avec l'âge.
+
+Conclusion :
+Pas d'évidence de processus expansif intracrânien visible ou d'image de lésion secondaire identifiable.
+Pour mémoire, petit méningiome extra-axial pariétal gauche.
+Atrophie cortico-sous-corticale.
+

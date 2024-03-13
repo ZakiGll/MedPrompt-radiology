@@ -1,0 +1,25 @@
+﻿
+
+Indication :
+Elévation des PSA à 5,1 ng/ml par rapport à 4,1 en janvier 2019.
+
+Technique :
+Séquences T2 dans les 3 plans de l'espace, séquences DIFFUSION, B0, B800, B 1600, avec cartographie ADC, séquence ganglion, axiale pondérée T2. Séquence injectée dynamique. Axiale avec soustraction et séquence tardive coronale T1 après injection.
+
+Résultat :
+L'examen met en évidence une prostate augmentée de volume, à contours réguliers dont le poids est estimé à 68 g environ.
+
+ZONE DE TRANSITION :
+Il existe une hypertrophie nodulaire importante des zones de transition avec une surélévation du plancher vésical.
+Présence d'un nodule prostatique de 20 mm de diamètre au niveau de la zone de transition gauche secteur 7-A dont les contours restent légèrement mal définis avec une restriction en diffusion dont l'ADC est estimé à 0,65 par rapport à 1,06 du côté controlatéral.
+
+ZONE PERIPHERIQUE : 
+La zone périphérique paraît largement, strictement homogène en hypersignal, T2 sans anomalie de signal en diffusion.
+Aspect normal de la vésicule séminale.
+Vessie à parois légèrement épaissies.
+Il n'existe pas de formation ganglionnaire pelvienne de taille significative. 
+
+Conclusion :
+Nodule prostatique atypique au niveau de la zone de transition gauche.
+Classification TIRADS 4.
+Pas d'autre anomalie décelable par ailleurs.

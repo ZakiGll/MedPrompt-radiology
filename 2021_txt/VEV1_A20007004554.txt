@@ -1,0 +1,36 @@
+﻿IRM CEREBRALE ET DES CAI
+
+Indication :
+Céphalées et troubles de l'équilibre.
+
+Technique :
+Séquences  T1 3D, axiales T2, en écho de gradient, diffusion et cartographie ADC, T2 3D sur les CAI, Flair 3D, vasculaire TOF sur le polygone de Willis ainsi que trois plans post-Gadolinium IV. 
+IRM 3T Ingénia.
+
+Description :
+ 
+Système vasculaire : discret élargissement homogène et symétrique des ventricules latéraux et pas d'anomalie décelée au niveau des 3ème et 4e ventricules.
+
+Espaces sous-arachnoïdiens : discret élargissement homogène et symétrique des espaces.
+ 
+Anomalies de signal du parenchyme : larges plages d'hypersignal T2 FLAIR de la substance blanche périventriculaire et des centres semi-ovales bilatéralement avec discrète prédominance gauche et en regard de la corne ventriculaire occipitale gauche.
+On retrouve un discret hypersignal T2 FLAIR, de topographie pontique, discrètement plus marqué à gauche également. 
+Petite plage d'hypersignal T2 FLAIR, cérébelleuse inférieure gauche.
+Pas de restriction de la diffusion et pas de rehaussement pathologique post-Gadolinium.
+La plupart des plages décrites s'accompagnent d'un hyposignal T1.
+ 
+Anomalies de signal extra-parenchymateuses : absence de processus pathologique extra-axial.
+ 
+Vaisseaux : aspect de sténose serrée à hauteur du M1 de l'artère cérébrale moyenne droite. Artère vertébrale gauche dominante visualisée à hauteur du V4.
+ 
+Cavités sinusiennes : bonne pneumatisation de l'ensemble des cavités sinusiennes.
+ 
+Voûte et base du crâne : sans anomalie.
+ 
+Constatations supplémentaires : aspect normal de la région sellaire, des cavités orbitaires ainsi que de la charnière cervico-occipitale.
+Les coupes fines sur les conduits auditifs internes ne démontrent pas d'effet de masse des angles ponto-cérébelleux ainsi que des conduits auditifs internes.
+Pas de prise de contraste le long du paquet vestibulo-facial ni des canaux semi-circulaires de la cochlée ddc.
+ 
+Conclusion :
+Très  importantes plages de leucopathie, en première hypothèse de type vasculaire chronique, séquellaire de la substance blanche périventriculaire, des centres semi-ovales bilatéralement mais également en infra-tentoriel cérébelleux inférieur gauche et pontique bilatéralement.
+Pas de lésion intracérébrale à caractère aigu. 

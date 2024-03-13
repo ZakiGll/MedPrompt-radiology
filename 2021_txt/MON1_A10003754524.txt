@@ -1,0 +1,19 @@
+﻿
+INDICATION 
+Patient ayant bénéficié de radiographie standard avant l'interprétation. Pas d'anomalie osseuse ou de calcification.
+
+TECHNIQUE
+Pondération DP dans les trois plans de l'espace et séquence T1 coronale. 
+ 
+RESULTAT
+Pas d'anomalie de signal de l'os cortical ou de l'os spongieux.
+Interlignes articulaires étant respectés. Intégrité des bourrelets antérieur et postérieur.
+Intégrité du tendon du subscapulaire.
+Le tendon du long biceps est en place dans sa gouttière anatomique, il n'y a pas d'épanchement ou luxation.
+Pas de signe décelable de rupture de coiffe, en particulier pas d'épanchement de la bourse sous acromio-deltoïdienne. 
+Les tendons supra et infra-épineux sont suivis. Il existe toutefois une hypertrophie du bec de l'acromion, ayant entraîné un syndrome de Butée ou impingement syndrome, associée à une arthropathie acromio-claviculaire par œdème sous chondral locorégional, sans épanchement ou arthrite. On note que cette hypertrophie vient appuyer sur la face superficielle des muscles de coiffe, le tout induisant une réduction de l'espace sous acromio-claviculaire.
+Trophicité musculaire globalement conservée. Pas d'épanchement visible.
+ 
+CONCLUSION
+Bilan IRM ne retrouvant pas de rupture de coiffe. On remarque une hypertrophie du bec de l'acromion induisant un effet d'impingement syndrome. Arthropathie acromio-claviculaire. Pas de constatation supplémentaire.
+

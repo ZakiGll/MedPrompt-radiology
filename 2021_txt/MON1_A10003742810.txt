@@ -1,0 +1,20 @@
+﻿Indication :
+Examen de contrôle.
+
+Technique :
+Séquence 3D T1, axiale T2 FLAIR, axiale diffusion, axiale ADC, axiale T2, axiale T2*, 3D TOF + une séquence coronale T1 hippocampique.
+
+Résultat :
+A l'étage sous-tentoriel : 
+Absence d'anomalie de signal du tronc cérébral ou du cervelet.
+Quatrième ventricule médian, de forme et de taille normale.
+
+A l'étage sus-tentoriel :
+Hypersignal de la substance blanche péri-ventriculaire et du centre ovale bilatéral sur les séquences axiale T2 FLAIR, axiale T2*, axiale T2, axiale diffusion, axiale ADC et en hyposignal sur la séquence 3D T1.
+Cavités ventriculaires augmentées de taille, en place.
+Structures médianes en place.
+Absence d'image d'anévrisme sur la séquence 3D TOF.
+Atrophie hippocampique bilatérale sur la séquence coronale T1 hippocampique correspondant à un grade 2 de Fazekas.
+
+Conclusion :
+Leucoencéphalopathie correspondant à un grade 2 de Scheltens et un grade 2 de Fazekas.

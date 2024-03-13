@@ -1,0 +1,17 @@
+﻿Indication : Bilan étiologique d'une volumineuse masse pelvienne probablement ovarienne avec une probable carcinose péritonéale signalée sur un scanner réalisé le 6 janvier 2021.
+
+Technique : séquence axiale T2 sur l'étage abdominal et pelvien et séquence diffusion. 
+Séquences sagittale, coronale T2 sur le pelvis, séquence T1 Dixon, séquence 3D T1 après injection.
+
+Résultats :
+
+L'examen met en évidence effectivement une volumineuse masse pelvienne postéro-latérale droite par rapport à l'utérus, elle mesure 136 mm x 86 mm, cette masse présente des contours polycycliques présentant un aspect hétérogène en T2 avec des zones de nécrose. Quelques zones en hypersignal T1 Dixon probablement hémorragiques.
+En diffusion, cette lésion présente de large plage en hypersignal avec diminution de l'ADC.
+Après injection, il existe des rehaussements intenses à plusieurs endroits de cette lésion plus intense par rapport au parenchyme utérin.
+L'ovaire gauche présente une image kystique de 28 mm de diamètre sans lésion tissulaire, sans anomalie de signal en diffusion.
+L'utérus présente un aspect polycyclique avec probablement deux images de fibrome dont une calcifiée.
+Il existe un épanchement intrapéritonéal pelvien et au niveau des gouttières pariéto-coliques sans nodule péritonéal décelable ni d'anomalie en diffusion.
+Il n'existe pas de formation ganglionnaire rétropéritonéale de taille significative ni de ganglion de taille significative au niveau des axes vasculaires iliaques primitifs externes ni hypogastriques.
+Il n'existe pas d'anomalie au niveau de la vessie, du rectum ni au niveau du vagin.
+
+Conclusion : Volumineuse masse pelvienne probablement d'origine ovarienne droite avec épanchement intrapéritonéal pelvien et abdominal sans formation ganglionnaire rétropéritonéale de taille significative, Classification O-RADS 5. Ovaire gauche présentant une image kystique. Utérus fibromateux. 

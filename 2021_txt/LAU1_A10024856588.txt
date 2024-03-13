@@ -1,0 +1,28 @@
+﻿MINERALOMETRIE
+
+Indication
+Contrôle d'ostéoporose connue fémorale proximale.
+Patient sous calcium et vitamine D.
+
+Technique
+Balayage biphotonique dans un plan antéro-postérieur de la colonne lombaire. 
+Appareil (14'') Discovery.
+
+Description
+Colonne lombaire :
+La densité osseuse de L1 à L4 est de 0,834 g/cm2. 
+Le T-score à -1,9, le Z-score de +0,8.
+Le TBS est de 1,200, partiellement dégradé.
+
+Hanche gauche :
+La densité osseuse totale est de 0,630 g/cm2.
+Le T-score est de -2,6, le Z-score est de -0,5.
+
+Col fémoral :
+La densité osseuse est de 0,512 g/cm2.
+Le T-score est de -3,0, le Z-score de -0,7.
+
+Conclusion
+Ostéoporose de la hanche gauche et du col fémoral gauche avec des valeurs au-dessous de la moyenne pour l'âge.
+Ostéopénie de la colonne lombaire avec des valeurs au-dessous de la moyenne pour l'âge.
+TBS dégradé augmentant le risque fracturaire lombaire. 

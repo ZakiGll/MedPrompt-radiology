@@ -1,0 +1,28 @@
+﻿IRM CEREBRALE 
+
+Indication :
+Céphalées persistantes chez un patient migraineux.
+
+Technique :
+Séquence sagittale T1, séquence 3D FLAIR, séquence axiale diffusion, séquence axiale T2*. 
+Séquence 3D TOF sur le polygone de Willis.
+
+Résultats :
+A l'étage sous-tentoriel :
+Morphologie normale de la charnière cervico-occipitale, des hémisphères, du vermis cérébelleux, du tronc cérébral, ces citernes de la base et du V4.
+
+A l'étage sus-tentoriel :
+Morphologie normale du corps calleux et des ventricules latéraux.
+Absence d'anomalie des noyaux gris centraux.
+Bonne différenciation substance blanche substance grise.
+Sur la séquence de diffusion, absence d'hypersignal évoquant une lésion ischémique constituée.
+Sur les séquences T2*, il existe quelques hypersignaux punctiformes de la substance blanche profonde et juxta-corticale frontale aspécifique. Absence d'hyposignal de type hémorragique.
+Sur les séquences 3D TOF, absence d'amputation d'un territoire vasculaire et d'image anévrismale.
+Aplasie du segment 1 de l'artère cérébrale moyenne gauche communicante postérieure non visible.
+Pour mémoire, comblement partiel des deux sinus maxillaires et des cellules ethmoïdales.
+Lipome juxta-osseux au contact de la dure-mère en frontal antérieur mesuré à 20 mm.
+
+Conclusion :
+Hypersignaux T2 FLAIR de la substance blanche profonde et juxta-corticale frontale, aspécifiques.
+IRM cérébrale et du polygone de Willis par ailleurs sans anomalie significative identifiable.
+Pour mémoire, comblement partiel des cellules ethmoïdales et des cellules maxillaires (sinusite chronique ?).

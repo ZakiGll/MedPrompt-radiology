@@ -1,0 +1,30 @@
+﻿CT SCAN THORACIQUE NATIF 
+
+Indication : 
+Contexte d'antécédents de néoplasie pulmonaire opérée.
+
+Technique :
+Acquisitions tomodensitométriques hélicoïdales en l'absence de contraste à votre demande avec un logiciel d'optimisation de dose.
+DLP : 161,5 mGy.cm.
+ 
+Description :
+En fenêtre médiastinale : 
+Pas d'adénopathie axillaire, supra-claviculaire et des chaînes mammaires internes.
+Calibre normal des cavités cardiaques et des vaisseaux médiastinaux.
+Fine lame d'épanchement péricardique, d'épaisseur infracentimétrique.
+
+En fenêtre parenchymateuse :
+Lobectomie inférieure gauche.
+Pas d'épanchement pleural et pas de lésion pleuro-parenchymateuse.
+Quelques atélectasies lamellaires basales gauches.
+
+En fenêtre osseuse :
+Dorsarthrose étagée.
+Pas de lésion osseuse à caractère péjoratif.
+A noter des anomalies de densité sous la forme d'une large plage spontanément hypodense du foie droit (volumineux angiome connu d'après la patiente).
+ 
+Conclusion :
+Lobectomie inférieure gauche.
+Fine lame d'épanchement péricardique.
+Pas de lésion pleuro-parenchymateuse.
+Importante plage hypodense du foie droit (angiome connu).

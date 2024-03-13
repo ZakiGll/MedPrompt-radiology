@@ -1,0 +1,17 @@
+﻿Indication : 
+Recherche d'une hydrocéphalie chez un patient ayant un antécédent de kyste en regard de C1 avec arthrodèse. 
+
+Technique : 
+Acquisition volumique centrée sur le parenchyme cérébral.
+
+Résultat : 
+Morphologie normale du système ventriculaire.
+Pas d'argument pour une hydrocéphalie.
+Aspect normal du parenchyme cérébral.
+
+A l'étage sous-tentoriel :
+Nombreux artéfacts métalliques en rapport avec l'arthrodèse.
+Pas d'anomalie visible au niveau du tronc cérébral visualisé.
+Morphologie normale du quatrième ventricule.
+
+
