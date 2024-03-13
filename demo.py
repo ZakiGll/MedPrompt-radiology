@@ -5,6 +5,9 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 import streamlit as st
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 reports_list = []
 folder_path = '2021_txt'
