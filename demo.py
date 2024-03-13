@@ -29,17 +29,11 @@ def main():
                                 temperature=0,google_api_key=GOOGLE_API_KEY, convert_system_message_to_human=True)
         embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001",google_api_key=GOOGLE_API_KEY)
         
-        @st.cache_data
-        def create_vectordb(reports):
-            text_splitter = CharacterTextSplitter(chunk_size=1500, chunk_overlap=350)
-            texts = text_splitter.split_text(reports)
-            db = Chroma.from_texts(texts, embeddings)
-            
-            return db
-        
-        st.session_state["vectordb"] = create_vectordb(reports)
-        db = st.session_state.get("vectordb", None)
+        text_splitter = CharacterTextSplitter(chunk_size=1500, chunk_overlap=350)
+        texts = text_splitter.split_text(reports)
+        db = Chroma.from_texts(texts, embeddings)
         retriever = db.as_retriever(search_kwargs={"k": 3})
+
         def generate_conclusion(observation):
             docs = retriever.get_relevant_documents(observation)
 
@@ -140,8 +134,8 @@ def main():
             
             return result.content
         
-        prompt_input = st.text_input("The observation:")
-        if prompt_input != "":
+        prompt_input = st.text_area("The observation:")
+        if st.button('Generate Conclusion'):
             conclusion = generate_conclusion(prompt_input)
 
             with st.expander("Conclusion"):
