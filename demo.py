@@ -34,11 +34,12 @@ def main():
             text_splitter = CharacterTextSplitter(chunk_size=1500, chunk_overlap=350)
             texts = text_splitter.split_text(reports)
             db = Chroma.from_texts(texts, embeddings)
-            retriever = db.as_retriever(search_kwargs={"k": 3})
-            return retriever
+            
+            return db
         
         st.session_state["vectordb"] = create_vectordb(reports)
-        retriever = st.session_state.get("vectordb", None)
+        db = st.session_state.get("vectordb", None)
+        retriever = db.as_retriever(search_kwargs={"k": 3})
         def generate_conclusion(observation):
             docs = retriever.get_relevant_documents(observation)
 
